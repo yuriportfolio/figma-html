@@ -1,7 +1,8 @@
 repo_name: yuriportfolio/figma-html
 report_id: 9aebc49424cc22b0b47ff8bc089fb86f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T20:12:23+00:00'
+timestamp: '2024-01-04T15:13:54+00:00'
 requested_by: steve8708
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/yuriportfolio/figma-html
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/yuriportfolio/figma-html
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/yuriportfolio/figma-html
   detection_source: Repo Metadata
 - name: Material-UI
   description: Material UI is a library of React UI components that implements Google's
@@ -46,7 +50,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: MobX
@@ -59,8 +64,8 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/5302/17475736.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: React
@@ -73,8 +78,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
 - name: css-loader
@@ -86,7 +91,8 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: Git
@@ -97,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yuriportfolio/figma-html
   detection_source: Repo Metadata
 - name: TSLint
   description: An extensible linter for the TypeScript language
@@ -106,6 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package.json
   detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
@@ -119,8 +127,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: webpack.config.js
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: npm
@@ -131,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/package.json
   detection_source: package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-08-27 00:33:56.000000000 Z
@@ -143,7 +152,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-05-10 09:50:50.000000000 Z
@@ -157,7 +166,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16475/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2023-04-11 22:30:16.000000000 Z
@@ -171,8 +180,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: "@material-ui/icons"
@@ -185,8 +194,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: "@types/lodash"
@@ -199,7 +208,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: package.json
   last_updated_by: Harmeet
   last_updated_on: 2022-08-23 14:23:56.000000000 Z
@@ -213,8 +222,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
 - name: "@types/react-dom"
@@ -227,8 +236,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
 - name: "@types/uuid"
@@ -241,7 +250,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Harmeet
   last_updated_on: 2022-08-23 14:23:56.000000000 Z
@@ -255,7 +264,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17037/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Sami Jaber
   last_updated_on: 2022-07-08 01:08:22.000000000 Z
@@ -269,7 +278,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17196/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Harmeet
   last_updated_on: 2022-08-23 14:23:56.000000000 Z
@@ -283,7 +292,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18341/default_d79f6942d35f0cd16cfad8861080cadb125b3aca.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
@@ -297,7 +306,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2023-04-11 22:30:16.000000000 Z
@@ -311,8 +320,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16661/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
 - name: pako
@@ -325,7 +334,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17464/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2021-02-22 18:49:11.000000000 Z
@@ -339,8 +348,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
 - name: react-intl
@@ -353,7 +362,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16566/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: package.json
   last_updated_by: Goldobin Anton
   last_updated_on: 2021-04-30 08:45:02.000000000 Z
@@ -367,7 +376,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
@@ -381,7 +390,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
@@ -395,8 +404,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: traverse
@@ -410,7 +419,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16901/default_3772c3833c88109974c994fa9f9548ac8ad59f11.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 20:19:20.000000000 Z
@@ -424,8 +433,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: tslint-config-airbnb
@@ -438,7 +447,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16394/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
@@ -452,7 +461,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16289/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2022-08-31 01:38:13.000000000 Z
@@ -466,7 +475,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-08-27 00:33:56.000000000 Z
@@ -480,7 +489,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: package.json
   last_updated_by: Harmeet
   last_updated_on: 2022-08-23 14:23:56.000000000 Z
@@ -494,8 +503,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: chrome-extension/package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
+  detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
 - name: webpack-merge
@@ -508,7 +517,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: chrome-extension/package-lock.json
+  detection_source_url: https://github.com/yuriportfolio/figma-html/blob/master/chrome-extension/package-lock.json
   detection_source: chrome-extension/package.json
   last_updated_by: Steve Sewell
   last_updated_on: 2019-09-04 18:25:41.000000000 Z
